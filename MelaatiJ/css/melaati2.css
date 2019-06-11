@@ -96,3 +96,15 @@ button{
 /*    display:block;*/
 /*    z-index:999;*/
 /*}*/
+
+.containerVideos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 5%;
+    /*grid-gap: 25%;*/
+    text-align: center;
+}
+
+.video{
+    margin-bottom: 5%;
+}
