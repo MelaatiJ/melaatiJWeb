@@ -2,62 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="247b690f-5918-442d-a6a7-b1876f910875" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/MelaatiJ.com.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/MelaatiTechResume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/css/melaati2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/extraStuff/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/extraStuff/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/extraStuff/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/3rdbookclubmeeting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/Manga &amp; Manhwa  meeting January 9th.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/bdpaflyer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/bookclubmeeting5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/brunchflyer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/collegecheetsheets1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/collegechetsheets2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/firstbookclubmeetingflyer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/friendsgiving.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/halloweendashteam.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/halloweeparty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/martinlutherkingflyer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/movienight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/peaceout2018partyflyer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/perlabirthday.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/secondbookclubmeetingflyer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/smash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/swimmingparty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/graphicDesignFlyers/yardsaleflyer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/Bdpa1stPlaceWinner.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/MERNPROJECT.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/MangwaMangwawebsite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/athenaTech3rdPlacewInner.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/bdpaSquad.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/bdpapic.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/bdpawinterJam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/birthdayPic.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/django2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/flower.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/githubprofile.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/hardworkdedicated.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/left-arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/manhwa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/meBeingAleader.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/meetingAmzing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/pokeman1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/right-arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/picturesOfMe/wikiApp1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/AboutMe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/AboutMe2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/AboutMe3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/ContactMe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/Graphics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/Projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/Reflections.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/Resume.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/Skills.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MelaatiJ/webpages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpages/AboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/webpages/AboutMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpages/AboutMe2.html" beforeDir="false" afterPath="$PROJECT_DIR$/webpages/AboutMe2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpages/AboutMe3.html" beforeDir="false" afterPath="$PROJECT_DIR$/webpages/AboutMe3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpages/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/webpages/Projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpages/Skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/webpages/Skills.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,12 +16,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="145">
+              <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpages/AboutMe.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="50" lean-forward="true" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -94,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webpages/Skills.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="205">
+              <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -106,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpages/AboutMe2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="1155">
+              <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -116,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/webpages/AboutMe3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -133,17 +92,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpages/Graphics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="1185">
               <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpages/Projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="385">
+              <caret line="109" column="7" lean-forward="true" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -159,14 +118,15 @@
         <option value="$PROJECT_DIR$/MelaatiJ/webpages/Projects.html" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/webpages/Reflections.html" />
-        <option value="$PROJECT_DIR$/webpages/AboutMe2.html" />
-        <option value="$PROJECT_DIR$/webpages/AboutMe3.html" />
         <option value="$PROJECT_DIR$/webpages/ContactMe.html" />
         <option value="$PROJECT_DIR$/webpages/Graphics.html" />
         <option value="$PROJECT_DIR$/webpages/Resume.html" />
-        <option value="$PROJECT_DIR$/webpages/Skills.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/webpages/AboutMe.html" />
+        <option value="$PROJECT_DIR$/webpages/AboutMe2.html" />
+        <option value="$PROJECT_DIR$/webpages/AboutMe3.html" />
         <option value="$PROJECT_DIR$/webpages/Projects.html" />
+        <option value="$PROJECT_DIR$/webpages/Skills.html" />
       </list>
     </option>
   </component>
@@ -179,9 +139,7 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/melaatiJWeb.iml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -191,34 +149,34 @@
     <option name="height" value="824" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="melaatiJWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="melaatiJWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="melaatiJWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/CodeSchool/melaatiJWeb" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="melaatiJWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="melaatiJWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="webpages" type="462c0819:PsiDirectoryNode" />
+              <item name="melaatiJWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/CodeSchool/melaatiJWeb" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="webpages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MERN/project3-mern-MelaatiJ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -255,17 +213,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="824" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3294964" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -273,40 +225,75 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Mongo Explorer" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32805756" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MelaatiJ/startbootstrap-bare-gh-pages/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MelaatiJ/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MelaatiJ/MelaatiJ.com.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MelaatiJ/webpages/Projects.html">
+    <entry file="file://$PROJECT_DIR$/MelaatiJ/startbootstrap-bare-gh-pages/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/MelaatiJ/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/MelaatiJ/MelaatiJ.com.iml" />
+    <entry file="file://$PROJECT_DIR$/MelaatiJ/webpages/Projects.html" />
+    <entry file="file://$PROJECT_DIR$/webpages/ContactMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="107" column="7" lean-forward="true" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="7" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpages/Graphics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="1185">
           <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpages/AboutMe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="50" lean-forward="true" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpages/AboutMe2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpages/AboutMe3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpages/Projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="109" column="7" lean-forward="true" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -326,43 +313,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webpages/Skills.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpages/ContactMe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpages/AboutMe3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpages/AboutMe2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpages/Projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="205">
+          <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
         </state>
       </provider>
     </entry>
