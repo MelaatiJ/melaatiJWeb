@@ -108,3 +108,65 @@ button{
 .video{
     margin-bottom: 5%;
 }
+
+.projectPics{
+    width: 100%;
+    border-right: mediumseagreen ;
+}
+
+
+.containerProjects {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 5%;
+    padding: 5%;
+    text-align: center;
+    font-family: 'Overpass Mono', monospace;    font-size: 15px;
+
+}
+
+.pushDown{
+    margin-top: 10%;
+}
+
+.projectBtn{
+    background: none;
+    border: none;
+    font-family: 'Overpass Mono', monospace;
+    color: mediumseagreen;
+    font-weight:bold ;
+    font-size: 20px;
+
+}
+
+.containerSkills{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 5%;
+    font-family: 'Overpass Mono', monospace;
+
+}
+
+.skillsTable{
+    text-align: center;
+    font-size: 40px;
+    grid-column: 1;
+    padding: 10px;
+    margin: 12px;
+}
+
+.skillsImage{
+    grid-column: 2;
+    width: 80%;
+}
+
+td{
+    padding-right: 15px;
+    padding-bottom: 15px;
+    font-family: 'Overpass Mono', monospace;
+
+}
+
+/*.flower{*/
+/*    grid-column: 2;*/
+/*}*/
